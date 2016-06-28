@@ -1,0 +1,43 @@
+{
+    "name": "moduleName",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [
+        "DEGJS"
+    ],
+    "author": {
+        "name": "",
+        "email": "",
+        "url": ""
+    },
+    "contributors": [
+        {
+            "name": "",
+            "email": "",
+            "url": ""
+        }
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DEGJS/moduleName.git"
+    },
+    "bugs": "https://github.com/DEGJS/moduleName/issues",
+    "devDependencies": {
+
+    },
+    "scripts": {
+
+    },
+    "jspm": {
+        "registry": "jspm",
+        "format": "es6",
+        "main": "moduleName.js",
+        "directories": {
+            "lib": "src"
+        },
+        "dependencies": {
+            
+        }
+    }
+}
